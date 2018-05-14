@@ -2,7 +2,7 @@
 This is a data analytics project on road traffic accidents to draw inferences and use these insights in minimizing the rate of accidents. There were 3 datasets considered from different regions, primarily Australia, India and the UK (Link : https://www.kaggle.com/silicon99/dft-accident-data/ ). A few of them have been uploaded. Some of the inferences drawn from the dataset have been added below
 
 
-### Influence of Alcohol consumption on accidents on specific day of the week: 
+#### Influence of Alcohol consumption on accidents on specific day of the week: 
 
 ![Dayoftheweek_alcohol](https://github.com/prash29/Traffic-Accident-Analysis/blob/master/Snapshots/dayoftheweek_alcohol.png)
 
