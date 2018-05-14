@@ -16,7 +16,7 @@ The pie chart shows us that over 61% of the accidents happen over the weekend (F
 An Indian dataset was considered to analyze the types of vehicles involved in accidents. The highest percentage, which is around 35% is to 2-wheelers. The percentage of heavy vehicles which include trucks, heavy duty lorries, tractors, etc. is also reasonably high. This implies that different vehicles can be dealt with differently. This could mean multiple lanes for different types of vehicles to deal with accidents better. 
 
 
-![Type]((https://github.com/prash29/Traffic-Accident-Analysis/blob/master/Snapshots/image015.gif)
+![Type] (https://github.com/prash29/Traffic-Accident-Analysis/blob/master/Snapshots/image015.gif)
 
 The chart tells us that it is the driver’s fault over 80% of the times. Contrary to popular belief, the fault does fall on the driver in most cases. It is also important to note other factors like stray animals, light, road and weather conditions, etc. also play a part in these accidents taking place.
 
