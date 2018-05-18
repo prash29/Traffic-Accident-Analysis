@@ -25,4 +25,4 @@ The chart tells us that it is the driver’s fault over 80% of the times. Contra
 
 This is a metric which is defined as total deaths per 100 accidents. The number of vehicles have always been increasing every year, and this could also be a cause in the trend observed in Fig.7.5.4. A small rise can be seen in the years 2012 and 2014. But, a great rise is seen from 2014 to 2016. This implies, an increase in the fatalities per 100 accidents in the 2 years.
 
-### Other charts regarding clustering of areas to find areas with higher density of accidents(using K-means), decision trees to determine factors contributing in severity of accidents and various plots are in the Snapshots folder
+### Other plots regarding clustering of areas to find areas with higher density of accidents(using K-means), decision trees to determine factors contributing in severity of accidents and various plots are in the Snapshots folder
